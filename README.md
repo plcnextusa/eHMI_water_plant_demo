@@ -16,7 +16,7 @@
 ### Step 1.2 (Recommended Method)
 
 ![](images/rec_method.png)
-![](images/rec_method_2.png)
+![](images/rec_method_2.PNG)
 
 ### Step 1.3
 - Using Drag and Drop
@@ -50,16 +50,16 @@
 
 **Layers:**
 
-![](images/layers.png)
+![](images/layers.PNG)
 
 - Create a rectangular background the color you want. 
 - Create two layers one for the rectangle you just made and the other for your SVG system
 
-![](images/layers2.png)
+![](images/layers2.PNG)
 
 - To move a object or group of objects to a layer select them all and then right click to select move to Layer. Then select the layer you want them on. 
 
-![](images/layers3.png)
+![](images/layers3.PNG)
 
 - Select the background and an element from the screen by holding the shift bar and clicking them both.
 
@@ -86,13 +86,13 @@
 - In Step 3 we needed to delete every element drawn on the screen. Now we must create those elements in PLCnext Engineer. 
 - These elements will be placed above the detailed layer along with the buttons.
 
-![](images/Animated_Elements.png)
+![](images/Animated_Elements.PNG)
 
 ### Step 7 (Background Elements)
 
 - In this step we create everything we want sent to the background of the screen. For this example, this will consist of rectangles and circles for the animation of water. 
 
-![](images/background_elements.png)
+![](images/background_elements.PNG)
 
 **Everything made in PLCnex Engineer:**
 
