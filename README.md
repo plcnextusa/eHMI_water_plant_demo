@@ -4,7 +4,7 @@
 
  ### Summary: 
 
- This is a step by step guide on how the above water plant animation was created using inkscape, PLCnext Engineer, and the PLCnext starterkit. 
+ This is a step by step guide on how the above water plant animation was created using Inkscape, PLCnext Engineer, and the PLCnext starterkit. 
 
 ### Step 1 (Combine SVGs)
 
