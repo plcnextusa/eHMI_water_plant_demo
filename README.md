@@ -1,5 +1,5 @@
 # eHMI_Water_Plant_Demo
- ## High Graphic Water Plant Animation
+ ## Graphic Water Plant Animation
  ![](images/Final_Product.png)
 
  ### Summary: 
